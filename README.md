@@ -8,6 +8,7 @@
 
 ### JDK 환경 설치
   1.1. jdk 1.8
+	
   1.2. JAVA_HOME 설치
 ### Maven 환경 설치
 	2.1 Maven 설치
